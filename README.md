@@ -1,4 +1,4 @@
-# MCP Inspector
+# The MCP Inspector 
 
 The MCP inspector is a developer tool for testing and debugging MCP servers.
 
